@@ -1,16 +1,32 @@
-# learning_app
+# 📱 Readify – AI-Powered Learning App for Dyslexic Students
 
-A new Flutter project.
+Readify is a Flutter-based mobile application designed to support dyslexic learners through AI-assisted reading, writing, and personalized learning tools.
 
-## Getting Started
+The application combines accessibility-focused design, speech technologies, and AI-powered learning assistance to create a better learning experience for students with dyslexia.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+##  Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* AI-powered text summarization
+* Speech-to-Text (STT)
+* Text-to-Speech (TTS)
+* Reading, writing, and vocabulary practice
+* Real-time feedback and progress tracking
+* Personalized learning experience
+* Dyslexia-friendly UI/UX
+* Offline data storage using Hive
+* Firebase integration for hybrid cloud support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Tech Stack
+
+* Flutter
+* Dart
+* Hive Database
+* Firebase
+* TensorFlow Lite
+* NLP-based Text Summarization
+
+---
