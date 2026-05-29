@@ -1,0 +1,25 @@
+# AI Model Training Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core ML Libraries
+torch>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# NLP Libraries
+nltk>=3.8.1
+spacy>=3.6.0
+
+# Data Processing
+openpyxl>=3.1.0  # For Excel file creation
+matplotlib>=3.7.0  # For charts
+seaborn>=0.12.0  # For better charts
+
+# Evaluation Metrics
+rouge-score>=0.1.2  # For summarization evaluation
+
+# Utilities
+tqdm>=4.65.0  # Progress bars
+joblib>=1.3.0  # Model saving
+

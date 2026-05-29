@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Reading a Short Email",
+    "content": "Hi Sam, our meeting is on Monday at 3 PM in Room 202. Please bring your ID card and come five minutes early. If you cannot come, reply to this email.",
+    "quiz": [
+      {
+        "question": "What time is the meeting?",
+        "options": ["2 PM", "3 PM", "4 PM"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Medicine Label",
+    "content": "Take one tablet every six hours as needed for pain. Do not take more than four tablets in 24 hours. Take with water. Keep out of reach of children.",
+    "quiz": [
+      {
+        "question": "What is the maximum number of tablets in 24 hours?",
+        "options": ["2", "3", "4"],
+        "answerIndex": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Work Notice",
+    "content": "The cow, a domesticated bovine animal, holds a significant place in human history and culture, particularly for its role as a source of sustenance and labor. Found across the globe, cows are large herbivores, characterized by their sturdy build, four-chambered stomach, and a pair of horns in many breeds. They are primarily farmed for milk, meat (beef), and hide, and in many developing countries, they are still used for plowing fields and pulling carts. In various religions, most notably Hinduism, the cow is revered as a sacred animal, symbolizing motherhood and life. Their gentle nature and economic importance have made them an integral part of agricultural societies worldwide.",
+    "quiz": [
+      {
+        "question": "When is the safety check?",
+        "options": ["Thursday 9 AM", "Friday 10 AM", "Friday 3 PM"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Short News Update",
+    "content": "The city library will be closed this Friday for maintenance. It will open again on Saturday at 9 AM. Online services will still be available.",
+    "quiz": [
+      {
+        "question": "When does the library open again?",
+        "options": ["Friday 5 PM", "Saturday 9 AM", "Sunday 9 AM"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Assignment Summary",
+    "content": "Read Chapter 2 and write a short summary of 150 words. Use your own words. Submit by Monday 5 PM on the class portal.",
+    "quiz": [
+      {
+        "question": "What is the word limit for the summary?",
+        "options": ["100 words", "150 words", "250 words"],
+        "answerIndex": 1
+      }
+    ]
+  }
+]
